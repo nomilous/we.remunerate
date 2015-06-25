@@ -1,2 +1,3 @@
-# [◀](https://github.com/nomilous/we.) we.remunerate
+[◀](https://github.com/nomilous/we.)
+# we.remunerate
 objective remunerator
