@@ -1,0 +1,16 @@
+{
+  "uuid": "60d41c60-9f07-4660-a4f4-38f9e039fb6b",
+  "repl": {
+    "listen": "/tmp/socket-60d41c60-9f07-4660-a4f4-38f9e039fb6b"
+  },
+  "plugins": {
+    "objective_dev": {
+      "testDir": "test",
+      "testAppend": "_test",
+      "sourceDir": "lib",
+      "runAll": true,
+      "showTrace": false,
+      "filterTrace": false
+    }
+  }
+}
