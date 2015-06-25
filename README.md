@@ -1,3 +1,7 @@
 [◀](https://github.com/nomilous/we.)
+
 # we.remunerate
-objective remunerator
+
+A remuneration algorythm<br>
+<br>
+&#9654;<br>
