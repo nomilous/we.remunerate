@@ -11,9 +11,7 @@ objective 'we.remunerate',
 
         * Important! This should include developer line counts for those lines from the 
           submodules used. Walk their package.json repo property. If they dont have one
-          add lineCount to 'unknown'  
-
-        * Important! Only used lines lines of code.
+          add lineCount to 'unknown'.
 
     """
 
