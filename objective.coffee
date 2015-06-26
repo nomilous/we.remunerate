@@ -17,6 +17,9 @@ objective 'we.remunerate',
 
         ### Problems / Challenges
 
+        * The repo referred in a package.json will seldom have a branch for the version
+          of the package being used.
+
         * Sometimes it is necessary to write very liney. Should the following be seen 
           as three lines?
 
@@ -26,7 +29,7 @@ objective 'we.remunerate',
              && this.huh) {...
           ```
 
-        * Good developers write few lines. Um not sure how to deal with that?
+        * Good developers write few lines. Um not sure how to deal with that. (suggestions?)
 
     """
 
